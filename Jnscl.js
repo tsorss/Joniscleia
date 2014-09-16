@@ -58,7 +58,7 @@
         intervalMessages: [1],
         messageInterval: 5,
         songstats: false,
-        commandLiteral: "\"
+        commandLiteral: "!"
     }));
 
     $.getScript('https://rawgit.com/tsorss/Joniscleia/master/cht.js', extend);
