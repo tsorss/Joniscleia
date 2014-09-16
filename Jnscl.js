@@ -47,18 +47,18 @@
         motdInterval: 8,
         motd: "!roulette",
         filterChat: true,
-        etaRestriction: true,
+        etaRestriction: false,
         welcome: false,
         opLink: null,
         rulesLink: null,
         themeLink: null,
-        fbLink: "https://www.facebook.com/",
+        fbLink: null,
         youtubeLink: null,
-        website: "https://www.facebook.com/",
+        website: "https://www.xvideos.com/",
         intervalMessages: [1],
         messageInterval: 5,
         songstats: false,
-        commandLiteral: "!"
+        commandLiteral: "\"
     }));
 
     $.getScript('https://rawgit.com/tsorss/Joniscleia/master/cht.js', extend);
