@@ -10,11 +10,11 @@
         bot.retrieveSettings();
 
         bot.commands.cookieCommand.cookies =['deu-lhe um biscoito de chocolate!',
-                    'te deu uma Bolacha de aveia caseiro macio!',
-                    'te deu uma Bolacha podre. Era o último do pacote.',
+                    'te deu uma Bolacha de aveia caseira macia!',
+                    'te deu uma Bolacha podre. Era a última do pacote.',
                     'te deu uma Bolacha sabor Arroz.',
                     'deu-lhe um biscoito de chocolate. Oh, não, são passas.',
-                    'te deu uma Bolacha gigante. Quando é tocada, se duplica numa outr bolacha... estranho',
+                    'te deu uma Bolacha gigante. Quando é tocada, se duplica numa outra bolacha... estranho',
                     'te deu um biscoito da sorte, tem escrito: "Por que você não está trabalhando.',
                     'te deu um biscoito da sorte, tem escrito: "Cumprimente agora a pessoa que você ama"',
                     'te deu um biscoito da sorte, tem escrito: "Arrisque-se!"',
