@@ -54,7 +54,7 @@
         themeLink: null,
         fbLink: "https://www.facebook.com/",
         youtubeLink: null,
-        website: "https://www.pudim.com.br/",
+        website: "http://www.xvideos.com/",
         intervalMessages: [1],
         messageInterval: 5,
         songstats: false,
