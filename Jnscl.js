@@ -47,7 +47,7 @@
         motdInterval: 8,
         motd: "!roulette",
         filterChat: true,
-        etaRestriction: false,
+        etaRestriction: true,
         welcome: false,
         opLink: null,
         rulesLink: null,
