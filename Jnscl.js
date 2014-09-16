@@ -81,6 +81,6 @@
         commandLiteral: "!"
     }));
 
-    $.getScript('https://rawgit.com/tsorss/Joniscleia/master/cht.js', extend);
+    $.getScript('https://rawgit.com/Yemasthui/basicBot/master/basicBot.js', extend);
 
 }).call(this);
