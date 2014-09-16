@@ -36,7 +36,7 @@
     localStorage.setItem("basicBotsettings", JSON.stringify({
         botName: "JoniscléiaBot",
         language: "portuguese",
-        chatLink: "https://rawgit.com/tsorss/Joniscleia/master/chat.js",
+        chatLink: "https://rawgit.com/tsorss/Joniscleia/master/chat.json",
         maximumAfk: 120,
         afkRemoval: true,
         maximumDc: 120,
