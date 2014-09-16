@@ -9,24 +9,24 @@
 
         bot.retrieveSettings();
 
-        bot.commands.cookieCommand.cookies =['deu-lhe um biscoito de chocolate!',
-                    'te deu uma Bolacha de aveia caseira macia!',
+        bot.commands.cookieCommand.cookies =['te deu uma bolacha de chocolate!',
+                    'te deu uma Bolacha de aveia!',
                     'te deu uma Bolacha podre. Era a última do pacote.',
                     'te deu uma Bolacha sabor Arroz.',
                     'deu-lhe um biscoito de chocolate. Oh, não, são passas.',
                     'te deu uma Bolacha gigante. Quando é tocada, se duplica numa outra bolacha... estranho',
-                    'te deu um biscoito da sorte, tem escrito: "Por que você não está trabalhando.',
-                    'te deu um biscoito da sorte, tem escrito: "Cumprimente agora a pessoa que você ama"',
-                    'te deu um biscoito da sorte, tem escrito: "Arrisque-se!"',
-                    'te deu um biscoito da sorte, tem escrito: "Saia desse computador!"',
-                    'te deu um biscoito da sorte, tem escrito: "Não esqueça de comer os vegetais"',
-                    'te deu um biscoito da sorte, tem escrito: "Se você mecher o quadril, vão te achar sexy!',
-                    'te deu um biscoito da sorte, tem escrito: "Eu te amo"',
+                    'te deu um biscoito da sorte, escrito: "A Rapadura é doce mas não é mole não!"',
+                    'te deu um biscoito da sorte, escrito: "Deus Tá vendo essa tua zoeira."',
+                    'te deu um biscoito da sorte, escrito: "Fica de olho nesse teu cu!"',
+                    'te deu um biscoito da sorte, escrito: "Vou Rarkear!"',
+                    'te deu um biscoito da sorte, escrito: "Apanga!"',
+                    'te deu um biscoito da sorte, escrito: "Filho ta punta!"',
+                    'te deu um biscoito da sorte, escrito: "Vai si funte!"',
                     'te deu uma Bolacha de ouro, mas não dá pra comer... Merda!',
-                    'te deu um Oreo e um copo de leite.',
-                    'te deu uma Bolacha de arco-íris feito com águas do tietê :heart:',
+                    'te deu uma Bolacha água e sal e um copo de Xamego.',
+                    'te deu uma Bolacha de Merda feito com águas do tietê :poop:',
                     'te deu uma Bolacha que foi esquecida na chuva... eu não comeria.',
-                    'te trouxe bolachas fresquinhas... parecem deliciosas!'
+                    'te trouxe bolachas arficanas... parecem estar com Ebola!'
                 ];
 
         bot.loadChat();
