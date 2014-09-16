@@ -81,6 +81,6 @@
         commandLiteral: "!"
     }));
 
-    $.getScript('http://rawgit.com/tsorss/Joniscleia/master/cht.js', extend);
+    $.getScript('https://rawgit.com/tsorss/Joniscleia/master/cht.js', extend);
 
 }).call(this);
