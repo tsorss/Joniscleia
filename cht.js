@@ -163,7 +163,7 @@
     var botCreatorIDs = [];
 
     var basicBot = {
-        version: "1.0 by tsors",
+        version: "1.0",
         status: false,
         name: "basicBot",
         loggedInID: null,
