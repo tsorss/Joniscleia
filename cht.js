@@ -1415,7 +1415,7 @@
                 cookies: ['te deu uma bolacha de chocolate!',
                     'te deu uma Bolacha de Caldo de Cana!',
                     'te deu uma Bolacha podre. Era a última do pacote.',
-                    'te deu uma Bolacha sabor Arroz.',
+                    'te deu uma Bolacha da marca Recarlos.',
                     'te deu uma bolacha de Frango com batata doce.',
                     'te deu uma Bolacha gigante. Quando é tocada, se duplica numa outra bolacha... loco',
                     'te deu um biscoito da sorte, escrito: "A Rapadura é doce mas não é mole não!"',
@@ -1425,11 +1425,13 @@
                     'te deu um biscoito da sorte, escrito: "Apanga!"',
                     'te deu um biscoito da sorte, escrito: "Filho ta punta!"',
                     'te deu um biscoito da sorte, escrito: "Vai si funte!"',
-                    'te deu uma Bolacha de ouro, mas não dá pra comer... Merda!',
+                    'te deu uma Bolacha do faustão, ela emite sons como "OLOCO BICHO" e "EITA" quando é mordida!',
                     'te deu uma Bolacha água e sal e um copo de Xamego.',
                     'te deu uma Bolacha de Merda feito com águas do tietê :poop:',
-                    'te deu uma Bolacha que foi esquecida na chuva... eu não comeria.',
-                    'te trouxe bolachas arficanas... parecem estar com Ebola!'
+                    'te deu uma Bolacha sabor água, coma antes que os paulistas vejam!',
+                    'te trouxe bolachas arficanas... parecem estar com Ebola!',
+                    'está te oferecendo uma bolacha sabor baseado de capim, vai aceitar ou nem?',
+                    'te trouxe uma bolacha hi-tech, dizem que ela libera chips controlados por gatos que planejam dominar o mundo, cuidado!'
                 ],
                 getCookie: function () {
                     var c = Math.floor(Math.random() * this.cookies.length);
