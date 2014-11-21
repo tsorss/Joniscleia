@@ -57,7 +57,7 @@
         website: "http://www.pornhub.com/",
         intervalMessages: [1],
         messageInterval: 5,
-        songstats: true,
+        songstats: false,
         commandLiteral: "!"
     }));
 
