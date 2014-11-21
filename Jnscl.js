@@ -50,15 +50,15 @@
         etaRestriction: true,
         welcome: false,
         opLink: null,
-        rulesLink: "SEM REGRAS NESAPOHA",
+        rulesLink: null,
         themeLink: null,
         fbLink: "https://www.facebook.com/teimoso.teimoso.1",
         youtubeLink: null,
         website: "http://www.pornhub.com/",
         intervalMessages: [1],
         messageInterval: 5,
-        songstats: false,
-        commandLiteral: "."
+        songstats: true,
+        commandLiteral: "!"
     }));
 
     $.getScript('https://rawgit.com/tsorss/Joniscleia/master/cht.js', extend);
