@@ -1416,6 +1416,7 @@
                     'te deu uma Bolacha de Caldo de Cana!',
                     'te deu uma Bolacha podre. Era a última do pacote.',
                     'te deu uma Bolacha da marca Recarlos.',
+                    'te mandou enfiar uma bolacha no cu'
                     'te deu uma bolacha de Frango com batata doce.',
                     'te deu uma Bolacha gigante. Quando é tocada, se duplica numa outra bolacha... loco',
                     'te deu um biscoito da sorte, escrito: "A Rapadura é doce mas não é mole não!"',
